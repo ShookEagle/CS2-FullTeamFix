@@ -1,7 +1,7 @@
 # CS2 Full Team Fix
 A CS2 Plugin Made for To Fix the issue of mappers not having enough spawns on their maps.
 ## Description
-The Full Team Fix plugin adds a spawn on top of a random pre-existing if their arent enough for that player to join the team.
+The Full Team Fix plugin adds a spawn on top of a random pre-existing if their arent enough for a player to join that team.
 - Respects `mp_limitteams` if you want to ignore this install [CS2-BypassTeamLimit](https://github.com/Mesharsky/CS2-BypassTeamLimit) by [Mesharky](https://github.com/Mesharsky)
 ## Requirements
 - [MetaMod:Source](https://github.com/alliedmodders/metamod-source/)
