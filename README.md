@@ -5,7 +5,7 @@ The Full Team Fix plugin adds a spawn on top of a random pre-existing if their a
 - Respects mp_limitteams if you want to ignore this install [CS2-BypassTeamLimit](https://github.com/Mesharsky/CS2-BypassTeamLimit) by [Mesharky](https://github.com/Mesharsky)
 ## Requirements
 - [MetaMod:Source](https://github.com/alliedmodders/metamod-source/)
-- [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp)
+- [CounterStrikeSharp](https://github.com/roflmuffin/CounterStrikeSharp) (v234 Minimum)
 ## Install
 1. Install Metamod:Source and Counter Strike Sharp.
 2. Copy `FullTeamFix` to `csgo/addons/counterstrikesharp/plugins/`.
